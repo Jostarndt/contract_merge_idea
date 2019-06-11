@@ -1,0 +1,5 @@
+This quick programm can pull data from an exel sheet and insert it in a prepared docx document, a template.
+
+Both documents need to lie within the same directory.
+
+Unfortuantely it is a bit unhandy and not easy to use, easier solution was written with VBA.
