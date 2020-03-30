@@ -2,4 +2,4 @@ This quick programm can pull data from an exel sheet and insert it in a prepared
 
 Both documents need to lie within the same directory.
 
-Unfortuantely it is a bit unhandy and not easy to use, easier solution was written with VBA.
+Unfortuantely it was a bit unhandy for the users (no programming experience) so a better version was developed in VBA.
