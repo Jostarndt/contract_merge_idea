@@ -18,9 +18,7 @@ print(contract.get_merge_fields())
 token_one = worksheet.cell_value(1,1)
 token_two= worksheet.cell_value(2,1)
 
-
+#run everything
 contract.merge(Test = man_name_short)
-
-
 contract.write("merged_contract.docx")
 
