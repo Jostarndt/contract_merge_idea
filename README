@@ -1,4 +1,4 @@
-This quick programm can pull data from an exel sheet and insert it in a prepared docx document, a template.
+This quick programm can pull data from an exel sheet and insert it in a prepared docx document, a template. This tool was quite helpful for automatizated building of contracts and letters on a large scale.
 
 Both documents need to lie within the same directory.
 
